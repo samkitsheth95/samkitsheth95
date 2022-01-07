@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @samkitsheth95
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Django, Go
-- 💞️ I’m looking to collaborate on API Development
 - 📫 How to reach me samkitsheth95@gmail.com
 - 🌐 https://samkitsheth.com
 <!---
